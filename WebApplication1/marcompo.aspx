@@ -225,7 +225,16 @@
 							<span class="micon dw dw-house-1"></span><span class="mtext">Home</span>
 						</a>
 						<ul class="submenu">
-                            
+                            <li><a href="actualizacion.aspx">Actualizacion</a></li>
+							<li><a href="computadorafinal.aspx">Computadorafinal</a></li>
+							<li><a href="cpugenerico.aspx">Cpu Generico</a></li>
+							<li><a href="marca.aspx">Marca</a></li>
+							<li><a href="modelocpu.aspx">Modelo Cpu</a></li>
+							<li><a href="monitor.aspx">Monitor</a></li>
+							
+							<li><a href="mouse.aspx">Mouse</a></li>
+							<li><a href="teclado.aspx">Teclado</a></li>
+
                             <li><a href="consultas.aspx">Ver Consultas...</a></li>
 							<li><a href="ubicacion.aspx">Ubicacion</a></li>
                             <li><a href="laboratorio.aspx">Laboratorio</a></li>
@@ -388,4 +397,15 @@
         </div>
     </form>
 </body>
+                        	<!-- js -->
+	<script src="vendors/scripts/core.js"></script>
+	<script src="vendors/scripts/script.min.js"></script>
+	<script src="vendors/scripts/process.js"></script>
+	<script src="vendors/scripts/layout-settings.js"></script>
+	<script src="src/plugins/apexcharts/apexcharts.min.js"></script>
+	<script src="src/plugins/datatables/js/jquery.dataTables.min.js"></script>
+	<script src="src/plugins/datatables/js/dataTables.bootstrap4.min.js"></script>
+	<script src="src/plugins/datatables/js/dataTables.responsive.min.js"></script>
+	<script src="src/plugins/datatables/js/responsive.bootstrap4.min.js"></script>
+	<script src="vendors/scripts/dashboard.js"></script>
 </html>

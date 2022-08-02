@@ -29,7 +29,6 @@ C:\Users\Lenovo\Music\prueba\Prueba\ClassCapaEntidad\bin\Debug\ClassCapaEntidad.
 C:\Users\Lenovo\Music\prueba\Prueba\ClassCapaEntidad\bin\Debug\ClassCapaEntidad.pdb
 C:\Users\Lenovo\Music\prueba\Prueba\ClassCapaEntidad\bin\Debug\ClassAccesoDatosSQL22.dll
 C:\Users\Lenovo\Music\prueba\Prueba\ClassCapaEntidad\bin\Debug\ClassAccesoDatosSQL22.pdb
-C:\Users\Lenovo\Music\prueba\Prueba\ClassCapaEntidad\obj\Debug\ClassCapaEntidad.csprojAssemblyReference.cache
 C:\Users\Lenovo\Music\prueba\Prueba\ClassCapaEntidad\obj\Debug\ClassCapaEntidad.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\Music\prueba\Prueba\ClassCapaEntidad\obj\Debug\ClassCapaEntidad.csproj.CopyComplete
 C:\Users\Lenovo\Music\prueba\Prueba\ClassCapaEntidad\obj\Debug\ClassCapaEntidad.dll
