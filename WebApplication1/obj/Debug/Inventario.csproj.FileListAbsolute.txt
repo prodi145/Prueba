@@ -1,0 +1,126 @@
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\WebApplication1.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassAccesoDatosSQL22.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassBLInventario.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassCapaEntidad.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassAccesoDatosSQL22.pdb
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassBLInventario.pdb
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassCapaEntidad.pdb
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\obj\Debug\Inventario.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\obj\Debug\Inventario.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\WebApplication1.dll.config
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\WebApplication1.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\WebApplication1.pdb
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\csc.exe
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\csc.exe.config
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\csc.rsp
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\csi.exe
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\csi.rsp
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\vbc.exe
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\vbc.exe.config
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\vbc.rsp
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassAccesoDatosSQL22.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassBLInventario.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassCapaEntidad.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassAccesoDatosSQL22.pdb
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassBLInventario.pdb
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassCapaEntidad.pdb
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\obj\Debug\Inventario.csproj.AssemblyReference.cache
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\obj\Debug\Inventario.csproj.CopyComplete
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\obj\Debug\WebApplication1.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\proyectoweb\Inventario\WebApplication1\bin\WebApplication1.dll.config
+D:\proyectoweb\Inventario\WebApplication1\bin\WebApplication1.dll
+D:\proyectoweb\Inventario\WebApplication1\bin\WebApplication1.pdb
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\csc.exe
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\csc.exe.config
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\csc.rsp
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\csi.exe
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\csi.rsp
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\vbc.exe
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\vbc.exe.config
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\vbc.rsp
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\proyectoweb\Inventario\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\proyectoweb\Inventario\WebApplication1\bin\ClassAccesoDatosSQL22.dll
+D:\proyectoweb\Inventario\WebApplication1\bin\ClassBLInventario.dll
+D:\proyectoweb\Inventario\WebApplication1\bin\ClassCapaEntidad.dll
+D:\proyectoweb\Inventario\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\proyectoweb\Inventario\WebApplication1\bin\ClassAccesoDatosSQL22.pdb
+D:\proyectoweb\Inventario\WebApplication1\bin\ClassBLInventario.pdb
+D:\proyectoweb\Inventario\WebApplication1\bin\ClassCapaEntidad.pdb
+D:\proyectoweb\Inventario\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\proyectoweb\Inventario\WebApplication1\obj\Debug\Inventario.csproj.AssemblyReference.cache
+D:\proyectoweb\Inventario\WebApplication1\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+D:\proyectoweb\Inventario\WebApplication1\obj\Debug\Inventario.csproj.CopyComplete
+D:\proyectoweb\Inventario\WebApplication1\obj\Debug\WebApplication1.dll
+D:\proyectoweb\Inventario\WebApplication1\obj\Debug\WebApplication1.pdb
