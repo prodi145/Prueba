@@ -1,0 +1,84 @@
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\WebApplication1.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassAccesoDatosSQL22.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassBLInventario.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassCapaEntidad.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassAccesoDatosSQL22.pdb
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassBLInventario.pdb
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassCapaEntidad.pdb
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\obj\Debug\Inventario.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\WebApplication1\obj\Debug\Inventario.csprojAssemblyReference.cache
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\WebApplication1.dll
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassAccesoDatosSQL22.dll
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassBLInventario.dll
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassCapaEntidad.dll
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassAccesoDatosSQL22.pdb
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassBLInventario.pdb
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\ClassCapaEntidad.pdb
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\obj\Debug\Inventario.csprojAssemblyReference.cache
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\obj\Debug\Inventario.csproj.CopyComplete
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Lenovo\Pictures\Producto_Inventario\ClassCapaEntidad\WebApplication1\obj\Debug\WebApplication1.pdb
