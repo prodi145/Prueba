@@ -48,9 +48,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CapaNegocioActualizacion.cs" />
+    <Compile Include="CapaNegocioComponentes.cs" />
     <Compile Include="CapaNegocioComputFinal.cs" />
     <Compile Include="CapaNegocioCPUGenerico.cs" />
     <Compile Include="CapaNegocioMarca.cs" />
+    <Compile Include="CapaNegocioMarCom.cs" />
     <Compile Include="CapaNegocioModeloCPU.cs" />
     <Compile Include="CapaNegocioMonitor.cs" />
     <Compile Include="CapaNegocioMouse.cs" />

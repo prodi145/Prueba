@@ -80,6 +80,7 @@
     <Content Include="cpugenerico.aspx" />
     <Content Include="index.aspx" />
     <Content Include="marca.aspx" />
+    <Content Include="marcompo.aspx" />
     <Content Include="modelocpu.aspx" />
     <Content Include="monitor.aspx" />
     <Content Include="mouse.aspx" />
@@ -117,6 +118,13 @@
     </Compile>
     <Compile Include="marca.aspx.designer.cs">
       <DependentUpon>marca.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="marcompo.aspx.cs">
+      <DependentUpon>marcompo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="marcompo.aspx.designer.cs">
+      <DependentUpon>marcompo.aspx</DependentUpon>
     </Compile>
     <Compile Include="modelocpu.aspx.cs">
       <DependentUpon>modelocpu.aspx</DependentUpon>

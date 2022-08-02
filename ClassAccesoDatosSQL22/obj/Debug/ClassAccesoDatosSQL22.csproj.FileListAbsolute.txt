@@ -3,3 +3,9 @@ C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntid
 C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\ClassAccesoDatosSQL22\obj\Debug\ClassAccesoDatosSQL22.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\ClassAccesoDatosSQL22\obj\Debug\ClassAccesoDatosSQL22.dll
 C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\ClassAccesoDatosSQL22\obj\Debug\ClassAccesoDatosSQL22.pdb
+C:\Users\Lenovo\Music\prueba\Prueba\ClassAccesoDatosSQL22\bin\Debug\ClassAccesoDatosSQL22.dll
+C:\Users\Lenovo\Music\prueba\Prueba\ClassAccesoDatosSQL22\bin\Debug\ClassAccesoDatosSQL22.pdb
+C:\Users\Lenovo\Music\prueba\Prueba\ClassAccesoDatosSQL22\obj\Debug\ClassAccesoDatosSQL22.csprojAssemblyReference.cache
+C:\Users\Lenovo\Music\prueba\Prueba\ClassAccesoDatosSQL22\obj\Debug\ClassAccesoDatosSQL22.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Music\prueba\Prueba\ClassAccesoDatosSQL22\obj\Debug\ClassAccesoDatosSQL22.dll
+C:\Users\Lenovo\Music\prueba\Prueba\ClassAccesoDatosSQL22\obj\Debug\ClassAccesoDatosSQL22.pdb
