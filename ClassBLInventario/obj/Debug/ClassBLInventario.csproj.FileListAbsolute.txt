@@ -31,3 +31,14 @@ D:\proyectoweb\Inventario\ClassBLInventario\obj\Debug\ClassBLInventario.csproj.C
 D:\proyectoweb\Inventario\ClassBLInventario\obj\Debug\ClassBLInventario.csproj.CopyComplete
 D:\proyectoweb\Inventario\ClassBLInventario\obj\Debug\ClassBLInventario.dll
 D:\proyectoweb\Inventario\ClassBLInventario\obj\Debug\ClassBLInventario.pdb
+C:\Users\Lenovo\Music\prueba\Prueba\ClassBLInventario\obj\Debug\ClassBLInventario.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Music\prueba\Prueba\ClassBLInventario\obj\Debug\ClassBLInventario.dll
+C:\Users\Lenovo\Music\prueba\Prueba\ClassBLInventario\obj\Debug\ClassBLInventario.pdb
+C:\Users\Lenovo\Music\prueba\Prueba\ClassBLInventario\bin\Debug\ClassBLInventario.dll
+C:\Users\Lenovo\Music\prueba\Prueba\ClassBLInventario\bin\Debug\ClassBLInventario.pdb
+C:\Users\Lenovo\Music\prueba\Prueba\ClassBLInventario\bin\Debug\ClassAccesoDatosSQL22.dll
+C:\Users\Lenovo\Music\prueba\Prueba\ClassBLInventario\bin\Debug\ClassCapaEntidad.dll
+C:\Users\Lenovo\Music\prueba\Prueba\ClassBLInventario\bin\Debug\ClassAccesoDatosSQL22.pdb
+C:\Users\Lenovo\Music\prueba\Prueba\ClassBLInventario\bin\Debug\ClassCapaEntidad.pdb
+C:\Users\Lenovo\Music\prueba\Prueba\ClassBLInventario\obj\Debug\ClassBLInventario.csproj.CopyComplete
+C:\Users\Lenovo\Music\prueba\Prueba\ClassBLInventario\obj\Debug\ClassBLInventario.csprojAssemblyReference.cache

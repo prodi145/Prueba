@@ -25,3 +25,11 @@ D:\proyectoweb\Inventario\ClassCapaEntidad\obj\Debug\ClassCapaEntidad.csproj.Cor
 D:\proyectoweb\Inventario\ClassCapaEntidad\obj\Debug\ClassCapaEntidad.csproj.CopyComplete
 D:\proyectoweb\Inventario\ClassCapaEntidad\obj\Debug\ClassCapaEntidad.dll
 D:\proyectoweb\Inventario\ClassCapaEntidad\obj\Debug\ClassCapaEntidad.pdb
+C:\Users\Lenovo\Music\prueba\Prueba\ClassCapaEntidad\bin\Debug\ClassCapaEntidad.dll
+C:\Users\Lenovo\Music\prueba\Prueba\ClassCapaEntidad\bin\Debug\ClassCapaEntidad.pdb
+C:\Users\Lenovo\Music\prueba\Prueba\ClassCapaEntidad\bin\Debug\ClassAccesoDatosSQL22.dll
+C:\Users\Lenovo\Music\prueba\Prueba\ClassCapaEntidad\bin\Debug\ClassAccesoDatosSQL22.pdb
+C:\Users\Lenovo\Music\prueba\Prueba\ClassCapaEntidad\obj\Debug\ClassCapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Music\prueba\Prueba\ClassCapaEntidad\obj\Debug\ClassCapaEntidad.csproj.CopyComplete
+C:\Users\Lenovo\Music\prueba\Prueba\ClassCapaEntidad\obj\Debug\ClassCapaEntidad.dll
+C:\Users\Lenovo\Music\prueba\Prueba\ClassCapaEntidad\obj\Debug\ClassCapaEntidad.pdb

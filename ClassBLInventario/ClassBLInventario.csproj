@@ -48,13 +48,24 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CapaNegocioActualizacion.cs" />
+    <Compile Include="CapaNegocioCantDisc.cs" />
+    <Compile Include="CapaNegocioComponentes.cs" />
     <Compile Include="CapaNegocioComputFinal.cs" />
+    <Compile Include="CapaNegocioConsultas.cs" />
     <Compile Include="CapaNegocioCPUGenerico.cs" />
+    <Compile Include="CapaNegocioDiscoDuro.cs" />
+    <Compile Include="CapaNegocioGabinete.cs" />
+    <Compile Include="CapaNegocioLaboratorio.cs" />
     <Compile Include="CapaNegocioMarca.cs" />
+    <Compile Include="CapaNegocioMarCom.cs" />
     <Compile Include="CapaNegocioModeloCPU.cs" />
     <Compile Include="CapaNegocioMonitor.cs" />
     <Compile Include="CapaNegocioMouse.cs" />
+    <Compile Include="CapaNegocioRAM.cs" />
     <Compile Include="CapaNegocioTeclado.cs" />
+    <Compile Include="CapaNegocioTipoCPU.cs" />
+    <Compile Include="CapaNegocioTipoRAM.cs" />
+    <Compile Include="CapaNegocioUbicacion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
