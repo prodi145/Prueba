@@ -1,0 +1,33 @@
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\ClassBLInventario\bin\Debug\ClassBLInventario.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\ClassBLInventario\bin\Debug\ClassBLInventario.pdb
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\ClassBLInventario\bin\Debug\ClassAccesoDatosSQL22.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\ClassBLInventario\bin\Debug\ClassCapaEntidad.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\ClassBLInventario\bin\Debug\ClassAccesoDatosSQL22.pdb
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\ClassBLInventario\bin\Debug\ClassCapaEntidad.pdb
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\ClassBLInventario\obj\Debug\ClassBLInventario.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\ClassBLInventario\obj\Debug\ClassBLInventario.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\ClassBLInventario\obj\Debug\ClassBLInventario.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\ClassBLInventario\obj\Debug\ClassBLInventario.dll
+C:\Users\Lenovo\Desktop\9no cuatri\profe memo\Producto_Inventario\ClassCapaEntidad\ClassBLInventario\obj\Debug\ClassBLInventario.pdb
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\ClassBLInventario\bin\Debug\ClassBLInventario.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\ClassBLInventario\bin\Debug\ClassBLInventario.pdb
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\ClassBLInventario\bin\Debug\ClassAccesoDatosSQL22.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\ClassBLInventario\bin\Debug\ClassCapaEntidad.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\ClassBLInventario\bin\Debug\ClassAccesoDatosSQL22.pdb
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\ClassBLInventario\bin\Debug\ClassCapaEntidad.pdb
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\ClassBLInventario\obj\Debug\ClassBLInventario.csproj.CoreCompileInputs.cache
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\ClassBLInventario\obj\Debug\ClassBLInventario.csproj.CopyComplete
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\ClassBLInventario\obj\Debug\ClassBLInventario.dll
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\ClassBLInventario\obj\Debug\ClassBLInventario.pdb
+D:\proyectoweb\Producto_Inventario\ClassCapaEntidad\ClassBLInventario\obj\Debug\ClassBLInventario.csproj.AssemblyReference.cache
+D:\proyectoweb\Inventario\ClassBLInventario\bin\Debug\ClassBLInventario.dll
+D:\proyectoweb\Inventario\ClassBLInventario\bin\Debug\ClassBLInventario.pdb
+D:\proyectoweb\Inventario\ClassBLInventario\bin\Debug\ClassAccesoDatosSQL22.dll
+D:\proyectoweb\Inventario\ClassBLInventario\bin\Debug\ClassCapaEntidad.dll
+D:\proyectoweb\Inventario\ClassBLInventario\bin\Debug\ClassAccesoDatosSQL22.pdb
+D:\proyectoweb\Inventario\ClassBLInventario\bin\Debug\ClassCapaEntidad.pdb
+D:\proyectoweb\Inventario\ClassBLInventario\obj\Debug\ClassBLInventario.csproj.AssemblyReference.cache
+D:\proyectoweb\Inventario\ClassBLInventario\obj\Debug\ClassBLInventario.csproj.CoreCompileInputs.cache
+D:\proyectoweb\Inventario\ClassBLInventario\obj\Debug\ClassBLInventario.csproj.CopyComplete
+D:\proyectoweb\Inventario\ClassBLInventario\obj\Debug\ClassBLInventario.dll
+D:\proyectoweb\Inventario\ClassBLInventario\obj\Debug\ClassBLInventario.pdb
